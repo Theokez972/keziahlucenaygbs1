@@ -1,0 +1,13 @@
+.html,body{
+    background-image: url(../img/wallpaper.SKyrim.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.navbar{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    overflow: hidden;
+}
