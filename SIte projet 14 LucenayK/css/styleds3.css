@@ -1,0 +1,22 @@
+.html,body{
+    background-image: url(../img/irithyl.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.navbar{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    overflow: hidden;
+}
+
+
+
+
+.row{
+  display: flex;
+  margin: 50px;
+  justify-content: space-evenly;
+}

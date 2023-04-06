@@ -1,0 +1,20 @@
+.html,body{
+    background-image: url(../img/background\ skyrim.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.navbar{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    overflow: hidden;
+}
+.TESOtrailer{
+    display: flex;
+    margin: 50px;
+    justify-content: space-evenly;
+    justify-content: center;
+  }
+
